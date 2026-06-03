@@ -1,0 +1,24 @@
+{
+  "name": "crud-express-mysql",
+  "version": "1.0.0",
+  "description": "Praktikum Full Stack P2 - CRUD dengan Express.js dan MySQL",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "keywords": [
+    "express",
+    "mysql",
+    "ejs",
+    "crud"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "mysql2": "^3.11.5"
+  }
+}
